@@ -1,12 +1,7 @@
 # Sudoku Solver 🧩
 
-## Description
+## Description ⌨️
 A Python implementation of a Sudoku puzzle solver using backtracking algorithm.
-
-## Table of Contents
-- [Features](#features)
-- [Algorithm](#algorithm)
-- [Examples](#example)
 
 ## Features ✨
 - Solves 9×9 Sudoku puzzles using backtracking
